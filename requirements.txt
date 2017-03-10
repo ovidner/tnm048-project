@@ -1,0 +1,6 @@
+fiona
+ipython
+numpy
+scipy
+shapely
+tablib

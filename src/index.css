@@ -1,0 +1,12 @@
+svg {
+  font: 12px sans-serif;
+}
+
+.axis .title {
+  fill: black;
+  font-weight: bold;
+}
+
+.axis .unit {
+  fill: black;
+}
